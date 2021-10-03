@@ -19,3 +19,7 @@
     </application>
 
 </manifest>
+
+
+//its just a comment...you can delete it later
+//Toast.makeText(getActivity(), (String)data.result, Toast.LENGTH_LONG).show();
